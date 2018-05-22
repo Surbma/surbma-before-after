@@ -1,11 +1,11 @@
 <?php
 
 /*
-Plugin Name: Surbma - Before <-> After
+Plugin Name: Surbma - Before / After
 Plugin URI: http://surbma.com/wordpress-plugins/
-Description: Simply add a before <-> after image to any WordPress website.
+Description: Simply add a before / after image to any WordPress website.
 
-Version: 1.2
+Version: 1.3
 
 Author: Surbma
 Author URI: http://surbma.com/

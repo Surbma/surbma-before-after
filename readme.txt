@@ -1,15 +1,15 @@
-=== Surbma - Before <-> After ===
+=== Surbma - Before / After ===
 Contributors: Surbma
 Donate link: https://surbma.com/donate/
 Tags: surbma, before, after, image, picture, before after, compare
 Requires at least: 4.0
 Tested up to: 4.9
 Requires PHP: 5.6
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simply add a before <-> after image to any WordPress website.
+Simply add a before / after image to any WordPress website.
 
 == Description ==
 
@@ -56,14 +56,17 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 1.3 =
+- TWEAK - Modified description and name symbols.
+
 = 1.2 =
-* TWEAK - Simple versioning.
-* TWEAK - Modified description and name symbols.
+- TWEAK - Simple versioning.
+- TWEAK - Modified description and name symbols.
 
 = 1.1.0 =
-* Updated scripts and styles.
-* Added more description.
-* Code optimization.
+- Updated scripts and styles.
+- Added more description.
+- Code optimization.
 
 = 1.0.0 =
-* Initial release.
+- Initial release.
