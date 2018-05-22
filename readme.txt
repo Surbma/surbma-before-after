@@ -1,14 +1,15 @@
-=== Surbma - Before ←→ After ===
+=== Surbma - Before <-> After ===
 Contributors: Surbma
-Donate link: http://surbma.com/
-Tags: surbma, before, after
+Donate link: https://surbma.com/donate/
+Tags: surbma, before, after, image, picture, before after, compare
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 1.1.0
+Requires PHP: 5.6
+Stable tag: 1.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simply add a before-after image to any WordPress website.
+Simply add a before <-> after image to any WordPress website.
 
 == Description ==
 
@@ -39,12 +40,12 @@ Please feel free to contribute, help or recommend any new features for my plugin
 
 **Do you want to know more about me?**
 
-Visit my webpage: [Surbma.com](http://surbma.com/)
+Visit my webpage: [Surbma.com](https://surbma.com/)
 
 == Installation ==
 
 1. Upload `surbma-before-after` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma - Before ←→ After plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma - Before <-> After plugin through the 'Plugins' menu in WordPress
 3. That's it. Now you can use the shortcodes. :)
 
 == Frequently Asked Questions ==
@@ -55,12 +56,14 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
-= 1.1.0 =
+= 1.2 =
+* TWEAK - Simple versioning.
+* TWEAK - Modified description and name symbols.
 
-- Updated scripts and styles.
-- Added more description.
-- Code optimization.
+= 1.1.0 =
+* Updated scripts and styles.
+* Added more description.
+* Code optimization.
 
 = 1.0.0 =
-
-- Initial release.
+* Initial release.
