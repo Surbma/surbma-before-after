@@ -1,14 +1,14 @@
 <?php
 
 /*
-Plugin Name: Surbma - Before / After Images
-Plugin URI: http://surbma.com/wordpress-plugins/
+Plugin Name: CPS | Before / After Images
+Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Simply add a before / after image to any WordPress website.
 
-Version: 1.4
+Version: 2.0
 
-Author: Surbma
-Author URI: http://surbma.com/
+Author: Cherry Pick Studios
+Author URI: https://www.cherrypickstudios.com/
 
 License: GPLv2
 

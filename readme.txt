@@ -1,11 +1,11 @@
-=== Surbma - Before / After Images ===
-Contributors: Surbma
+=== CPS | Before / After Images ===
+Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: surbma, before, after, image, picture, before after, compare
 Requires at least: 4.0
-Tested up to: 4.9
+Tested up to: 5.2
 Requires PHP: 5.6
-Stable tag: 1.4
+Stable tag: 2.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,20 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.0 =
+
+Release date: 2019-07-19
+
+With this version, the plugin is rebranded to Cherry Pick Studios or CPS with the short version. Cherry Pick Studios is created by me, Surbma, so everything is the same, but better. :)
+
+NEW
+
+- Plugin author and contributor has changed to Cherry Pick Studios.
+
+TWEAK
+
+- Checked compatibility with the lates version of WordPress.
 
 = 1.4 =
 - NEW - Plugin name change.
