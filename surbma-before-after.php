@@ -5,9 +5,9 @@ Plugin Name: CPS | Before / After Images
 Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Simply add a before / after image to any WordPress website.
 
-Version: 2.0
+Version: 2.1
 
-Author: Cherry Pick Studios
+Author: CherryPick Studios
 Author URI: https://www.cherrypickstudios.com/
 
 License: GPLv2
@@ -35,11 +35,7 @@ add_action( 'wp_enqueue_scripts', 'surbma_before_after_scripts' );
 
 function surbma_before_after_footer_scripts() {
 ?>
-<script>
-jQuery(window).load(function() {
-  jQuery(".twentytwenty-container").twentytwenty();
-});
-</script>
+<script>jQuery(function(){jQuery(".twentytwenty-container").twentytwenty();});</script>
 <?php
 }
 add_action( 'wp_footer', 'surbma_before_after_footer_scripts', 999 );

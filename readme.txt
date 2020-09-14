@@ -2,10 +2,10 @@
 Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: surbma, before, after, image, picture, before after, compare
-Requires at least: 4.0
-Tested up to: 5.2
-Requires PHP: 5.6
-Stable tag: 2.0
+Requires at least: 5.5
+Tested up to: 5.5
+Requires PHP: 7.0
+Stable tag: 2.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,34 +56,52 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 2.1 =
+
+Release date: 2020-09-15
+
+FIX
+
+- Fixes jQuery call, so it is compatible with latest versions of WordPress (5.5) and jQuery.
+
+TWEAK
+
+- Checked compatibility with the latest version of WordPress.
+- Changed minimum WordPress version and PHP requirements.
+
 = 2.0 =
 
 Release date: 2019-07-19
 
-With this version, the plugin is rebranded to Cherry Pick Studios or CPS with the short version. Cherry Pick Studios is created by me, Surbma, so everything is the same, but better. :)
+With this version, the plugin is rebranded to CherryPick Studios or CPS with the short version. CherryPick Studios is created by me, Surbma, so everything is the same, but better. :)
 
 NEW
 
-- Plugin author and contributor has changed to Cherry Pick Studios.
+- Plugin author and contributor has changed to CherryPick Studios.
 
 TWEAK
 
-- Checked compatibility with the lates version of WordPress.
+- Checked compatibility with the latest version of WordPress.
 
 = 1.4 =
+
 - NEW - Plugin name change.
 
 = 1.3 =
+
 - TWEAK - Modified description and name symbols.
 
 = 1.2 =
+
 - TWEAK - Simple versioning.
 - TWEAK - Modified description and name symbols.
 
 = 1.1.0 =
+
 - Updated scripts and styles.
 - Added more description.
 - Code optimization.
 
 = 1.0.0 =
+
 - Initial release.
