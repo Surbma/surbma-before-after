@@ -1,11 +1,11 @@
 === CPS | Before / After Images ===
-Contributors: Surbma, CherryPickStudios
+Contributors: CherryPickStudios, Surbma
 Donate link: https://surbma.com/donate/
 Tags: surbma, before, after, image, picture, before after, compare
 Requires at least: 5.5
-Tested up to: 6.2
-Requires PHP: 7.0
-Stable tag: 2.1
+Tested up to: 6.7
+Requires PHP: 7.4
+Stable tag: 2.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,19 @@ Visit my webpage: [Surbma.com](https://surbma.com/)
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 2.2 =
+
+Release date: 2025-01-01
+
+FIX
+
+- Changed textdomain hook to init.
+- Security fix for shortcode: parameters are properly escaped.
+
+OTHER
+
+- Code optimizations.
 
 = 2.1 =
 
